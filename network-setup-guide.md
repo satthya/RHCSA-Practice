@@ -52,7 +52,7 @@ Method 2 : Manual File Editing
 		○ ls   # (select the network interface)
 		○ vi eth1.nmconnection
 	
-	
+![SSH Error](Image/vi_eth1.PNG)	
 
 	3. Reactivate Network Interface
 
