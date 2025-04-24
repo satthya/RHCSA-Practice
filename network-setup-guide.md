@@ -21,7 +21,7 @@ Method 1 : Using nmcli
 
 		○ nmcli dev status
 
-![SSH Error](Image/nmcli dev status.PNG)
+![SSH Error](Image/nmcli_dev_status.PNG)
 
 	3. Configure static IP Settings
 
