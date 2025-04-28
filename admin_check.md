@@ -5,8 +5,11 @@ Problem Statement:
 Create a directory named admins under /home with the following requirements:
 
 	• The directory must belong to the group admin.
+ 
 	• Only members of the admin group should have read and write access to it.
+ 
 	• All other users should not be allowed to access the directory.
+ 
 	• Ensure that any files created inside the directory by group members automatically inherit the admin group ownership.
 .
 
